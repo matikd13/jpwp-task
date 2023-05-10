@@ -8,6 +8,7 @@ Autorzy: **Kacper Kwaśny, Mateusz Jakubowski**
 
 ### Zadanie 1: utworzenie środowiska i uruchomienie Flaska
 Utwórz środowisko wirtualne i zainstaluj Flaska przy użyciu pip.
+***
 Pomocne komendy:
 >python3 -m venv venv
 
@@ -25,7 +26,11 @@ Aktywacja środowiska dla systemów linux/macos
 
 Instalacja Flaska
 
+***
 Po instalacji napisz prosty skrypt, taki jak w pliku `zad1.py`, a nastepnie
 uruchom serwer tą komendą 
 
 >flask --app `nazwa pliku` run
+***
+### Zadanie 2: utworzenie środowiska i uruchomienie Flaska
+
