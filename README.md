@@ -32,5 +32,9 @@ uruchom serwer tą komendą
 
 >flask --app `nazwa pliku` run
 ***
-### Zadanie 2: utworzenie środowiska i uruchomienie Flaska
+### Zadanie 2: proste przekierowanie 
+
+### Zadanie 3: przekierowanie na różne strony na podstawie nagłówka `Host`
+
+### Zadanie 4: blokowanie zbyt dużej ilości zapytań
 
